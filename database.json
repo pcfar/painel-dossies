@@ -1,0 +1,514 @@
+[
+  {
+    "pais": "Belgica",
+    "liga": "Jupiler_Pro_League",
+    "clube": "Club_Brugge",
+    "temporada": "24_25",
+    "dossie_completo": {
+      "nome_completo": "Club Brugge",
+      "url_escudo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
+      "sumario_estrategico": {
+        "identidade_principal": "Um hegemônico em reconstrução ofensiva, forçado a trocar o brilho individual pela solidez coletiva.",
+        "padrao_quantitativo_chave": "Fortaleza absoluta como mandante (invicto em casa na temporada 24/25), mas com notável vulnerabilidade como visitante.",
+        "fator_tatico_principal": "Pragmatismo do técnico Nicky Hayen, com um sistema 3-5-2 que se torna um 5-3-2 reativo e menos potente fora de casa.",
+        "fator_contextual_principal": "Perda drástica de poder de fogo com a venda de seus dois principais jogadores de ataque da temporada passada (Igor Thiago e Andreas Skov Olsen).",
+        "cenarios_monitoramento_in_live": [
+          "Reação forte em casa se estiver em desvantagem.",
+          "Cautela e tendência a jogos com poucos gols no início da temporada (especialmente como visitante).",
+          "Dificuldade e padrão de ser dominado como visitante vs. G4."
+        ]
+      },
+      "analise_profunda": {
+        "base_factual": {
+          "analise_quantitativa_geral": "Desempenho em 24/25 mostrou uma fortaleza invicta como mandante, mas uma queda drástica como visitante, onde sofreu todas as suas derrotas na liga.",
+          "raio_x_24_25": {
+            "protagonistas": [
+              {
+                "titulo": "Líder de Assistências & Destaque da Liga: Hans Vanaken",
+                "descricao": "Com 13 assistências, ele se consagrou como o líder de assistências de toda a Jupiler Pro League. Além disso, obteve a maior Média Sofascore (7.65) entre os meio-campistas do campeonato."
+              },
+              {
+                "titulo": "Artilheiro da Equipe: Ferran Jutglà",
+                "descricao": "Marcou 10 gols na temporada."
+              }
+            ],
+            "padroes_estatisticos_equipe": "A equipe liderou a liga em finalizações por jogo (17.8) e teve uma média de 58% de posse de bola, indicando um time que controla o jogo e busca o gol incessantemente."
+          },
+          "analise_comparativa_elenco": "A equipe foi reconstruída de trás para frente. A base defensiva e de meio-campo foi reforçada. No entanto, o setor ofensivo foi enfraquecido com a perda de seus dois jogadores mais decisivos."
+        },
+        "engrenagem_tatica": {
+          "o_comandante": "Nicky Hayen: Técnico pragmático que prioriza a organização e a solidez defensiva, utilizando um esquema 3-5-2 (que vira 5-3-2).",
+          "modelo_de_jogo": "Defesa em bloco médio/baixo, com transições rápidas e verticais. Em casa, a postura é mais agressiva. Fora, a equipe torna-se reativa.",
+          "destaque_equipe": "Com as saídas no ataque, o capitão Hans Vanaken se torna a peça absolutamente central, responsável por toda a criação de jogadas."
+        },
+        "sintese_e_cenarios": {
+          "sintese": "O Club Brugge carrega a reputação de hegemônico, mas entra na temporada com uma grande interrogação sobre seu ataque. O mercado pode demorar a precificar essa nova realidade.",
+          "cenarios_detalhados": [
+            "Brugge em Desvantagem como MANDANTE: A tendência é de uma reação muito forte.",
+            "Jogo Equilibrado no Início da Temporada (Visitante): A tendência é de um jogo mais controlado e com poucas chances.",
+            "Brugge como VISITANTE vs. G4: A tendência é de ser dominado."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "pais": "Dinamarca",
+    "liga": "Superliga",
+    "clube": "FC_Copenhagen",
+    "temporada": "24_25",
+    "dossie_completo": {
+      "nome_completo": "FC Copenhagen",
+      "url_escudo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/F.C._Copenhagen_logo.svg/1200px-F.C._Copenhagen_logo.svg.png",
+      "sumario_estrategico": {
+        "identidade_principal": "Campeão hegemônico e estável, com um sistema de jogo consolidado e um ataque agora reforçado por talento de elite.",
+        "padrao_quantitativo_chave": "Consistência de campeão, com forte desempenho tanto como mandante quanto visitante na fase decisiva da temporada anterior.",
+        "fator_tatico_principal": "Sistema 4-3-3 controlado e organizado do técnico Jacob Neestrup, focado na posse de bola como ferramenta de controle e defesa.",
+        "fator_contextual_principal": "A chegada do atacante de alto potencial Youssoufa Moukoko para um time que já era o campeão.",
+        "cenarios_monitoramento_in_live": [
+          "Gestão de vantagem com posse de bola.",
+          "Impacto de Moukoko saindo do banco em jogos equilibrados.",
+          "Confrontos diretos contra o Midtjylland tendem a ser 'jogos de xadrez'."
+        ]
+      },
+      "analise_profunda": {
+        "base_factual": {
+          "analise_quantitativa_geral": "Conquistou o título de 24/25 com uma performance espetacular na fase final (8 vitórias em 10 jogos), mostrando equilíbrio em casa e fora.",
+          "raio_x_24_25": {
+            "protagonistas": [
+              {
+                "titulo": "Artilheiro da Equipe: Mohamed Elyounoussi",
+                "descricao": "Marcou 9 gols, figurando no Top 10 da liga."
+              },
+              {
+                "titulo": "Líder de Assistências: Viktor Claesson",
+                "descricao": "Forneceu 8 assistências, um dos maiores criadores da liga."
+              }
+            ],
+            "padroes_estatisticos_equipe": "Liderou a liga em posse de bola (59%) e teve a melhor defesa (0.9 gols sofridos/jogo), demonstrando controle total das partidas."
+          },
+          "analise_comparativa_elenco": "Manteve a estabilidade no comando (Jacob Neestrup) e a espinha dorsal experiente. A principal mudança foi um 'upgrade' no ataque com a contratação de Youssoufa Moukoko (ex-Dortmund), tornando o elenco, no papel, ainda mais forte."
+        },
+        "engrenagem_tatica": {
+          "o_comandante": "Jacob Neestrup: Técnico pragmático que preza pelo controle do jogo através da posse e de uma estrutura defensiva sólida, geralmente em um 4-3-3.",
+          "modelo_de_jogo": "Construção paciente, controle do meio-campo e, com a chegada de Moukoko, uma nova capacidade de atacar a profundidade com velocidade.",
+          "destaque_equipe": "O capitão Viktor Claesson continua sendo o cérebro da equipe, responsável por ditar o ritmo e conectar o meio com o ataque."
+        },
+        "sintese_e_cenarios": {
+          "sintese": "Entra na temporada como favorito absoluto, combinando estabilidade, maturidade tática e um novo poder de fogo. O desafio será encontrar valor em odds que refletirão esse favoritismo.",
+          "cenarios_detalhados": [
+            "Ao fazer 1x0, a tendência é 'congelar' o jogo com a posse.",
+            "A entrada de Moukoko no ST é um gatilho para um gol tardio.",
+            "Clássicos contra o Midtjylland tendem a ser jogos táticos com poucos gols."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "pais": "Dinamarca",
+    "liga": "Superliga",
+    "clube": "FC_Midtjylland",
+    "temporada": "24_25",
+    "dossie_completo": {
+      "nome_completo": "FC Midtjylland",
+      "url_escudo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/FC_Midtjylland_logo.svg/1200px-FC_Midtjylland_logo.svg.png",
+      "sumario_estrategico": {
+        "identidade_principal": "Desafiante sólido e estável, com força máxima em casa, mas com uma mentalidade questionável como visitante.",
+        "padrao_quantitativo_chave": "Fortaleza em seus domínios, mas com uma queda de rendimento e irregularidade significativas fora de casa.",
+        "fator_tatico_principal": "Sistema 4-4-2 organizado e pragmático do técnico Thomas Thomasberg, com foco em solidez defensiva e letalidade em bolas paradas.",
+        "fator_contextual_principal": "A continuidade do elenco e do comando técnico é sua maior força, apostando em entrosamento."
+      },
+      "analise_profunda": {
+        "base_factual": {
+          "analise_quantitativa_geral": "Vice-campeão em 24/25. Sua campanha foi construída sobre uma forte performance em casa, mas a irregularidade como visitante (2V, 2E, 1D na fase final) custou o título.",
+          "raio_x_24_25": {
+            "protagonistas": [
+              {
+                "titulo": "Artilheiro da Equipe: Gue-sung Cho",
+                "descricao": "Marcou 12 gols, um dos principais atacantes da liga."
+              },
+              {
+                "titulo": "Líder de Assistências: Oliver Sørensen",
+                "descricao": "Contribuiu com 7 assistências."
+              }
+            ],
+            "padroes_estatisticos_equipe": "Teve o ataque mais positivo da liga (2.1 gols/jogo) e foi o líder em gols de bola parada (15), uma arma letal."
+          },
+          "analise_comparativa_elenco": "Apostou na continuidade, mantendo sua base titular e o técnico Thomas Thomasberg. A contratação de Ola Brynhildsen visa adicionar opções ao ataque, um jogador com potencial de 'regressão positiva'."
+        },
+        "engrenagem_tatica": {
+          "o_comandante": "Thomas Thomasberg: Técnico experiente e pragmático, que monta equipes organizadas e difíceis de serem batidas, com maestria em jogadas de bola parada.",
+          "modelo_de_jogo": "Estilo mais direto e vertical, com um bloco defensivo compacto em um 4-4-2. O ataque é focado no centroavante de referência, Gue-sung Cho.",
+          "destaque_equipe": "O sul-coreano Gue-sung Cho é o ponto focal do sistema ofensivo."
+        },
+        "sintese_e_cenarios": {
+          "sintese": "O Midtjylland é o claro 'número 2' da Dinamarca. Sua força reside na estabilidade, sistema e no fator casa. Sua fraqueza é a queda de desempenho em jogos cruciais como visitante.",
+          "cenarios_detalhados": [
+            "Ao marcar primeiro em casa, a tendência é de uma equipe que se fecha e administra a vantagem com muita competência.",
+            "Como visitante vs. G4, a tendência é de uma postura reativa com dificuldade de virar o placar.",
+            "Uma sequência de escanteios/faltas a seu favor é sempre um gatilho de alerta de gol."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "pais": "Turquia",
+    "liga": "Super_Lig",
+    "clube": "Galatasaray",
+    "temporada": "24_25",
+    "dossie_completo": {
+      "nome_completo": "Galatasaray SK",
+      "url_escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galatasaray_S.K._logo.svg/1200px-Galatasaray_S.K._logo.svg.png",
+      "sumario_estrategico": {
+        "identidade_principal": "Uma dinastia hegemônica no auge de sua força, com um sistema consolidado e elenco ainda mais forte.",
+        "padrao_quantitativo_chave": "Domínio absoluto, incluindo uma campanha perfeita como mandante (18V-0E-0D) em 24/25.",
+        "fator_tatico_principal": "Sistema 4-2-3-1 ofensivo e de pressão alta de Okan Buruk, projetado para maximizar Mauro Icardi.",
+        "fator_contextual_principal": "Continuidade total (base + técnico) e reforço estratégico de um rival direto.",
+        "cenarios_monitoramento_in_live": [
+          "Tendência a sufocar adversários em casa nos primeiros 20 minutos.",
+          "Gestão de resultado após abrir 2 gols de vantagem.",
+          "Icardi como principal finalizador em momentos de pressão."
+        ]
+      },
+      "analise_profunda": {
+        "base_factual": {
+          "analise_quantitativa_geral": "Campanha quase perfeita em 24/25, quebrou recordes de pontos e vitórias consecutivas, com um aproveitamento de 100% em casa.",
+          "raio_x_24_25": {
+            "protagonistas": [],
+            "padroes_estatisticos_equipe": "Melhor ataque e melhor defesa da liga."
+          },
+          "analise_comparativa_elenco": "Elenco manteve a base campeã e adicionou peças de reposição de alto nível, aumentando a profundidade."
+        },
+        "engrenagem_tatica": {
+          "o_comandante": "Okan Buruk",
+          "modelo_de_jogo": "Pressão alta constante, busca pela recuperação rápida da posse e um volume de jogo ofensivo muito alto, especialmente em casa.",
+          "destaque_equipe": "Mauro Icardi"
+        },
+        "sintese_e_cenarios": {
+          "sintese": "Favorito absoluto ao título, com pouquíssimas fraquezas aparentes.",
+          "cenarios_detalhados": []
+        }
+      }
+    }
+  },
+  {
+    "pais": "Turquia",
+    "liga": "Super_Lig",
+    "clube": "Fenerbahce",
+    "temporada": "24_25",
+    "dossie_completo": {
+      "nome_completo": "Fenerbahçe SK",
+      "url_escudo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Fenerbah%C3%A7e_SK.svg/1200px-Fenerbah%C3%A7e_SK.svg.png",
+      "sumario_estrategico": {
+        "identidade_principal": "Gigante em transformação, trocando o futebol ofensivo pela disciplina pragmática de elite de José Mourinho.",
+        "padrao_quantitativo_chave": "Performance de vice-campeão em 24/25, que agora serve de base para uma total reformulação filosófica.",
+        "fator_tatico_principal": "Implementação do sistema 4-2-3-1 de Mourinho, focado em bloco defensivo e contra-ataques letais.",
+        "fator_contextual_principal": "A chegada de José Mourinho e de 'generais' (Højbjerg, Díaz) para instilar uma mentalidade vencedora.",
+        "cenarios_monitoramento_in_live": [
+          "Equipe extremamente perigosa em contra-ataques após roubada de bola.",
+          "Jogos tendem a ter menos gols (Under) em comparação com a temporada passada.",
+          "Alta performance em jogos de 'alta tensão'."
+        ]
+      },
+      "analise_profunda": {
+        "base_factual": {
+          "analise_quantitativa_geral": "Teve um dos melhores ataques da liga em 24/25, mas falhou nos confrontos diretos cruciais, o que motivou a mudança de filosofia.",
+          "raio_x_24_25": {},
+          "analise_comparativa_elenco": "Mudança drástica com a chegada de jogadores de perfil 'Mourinho': fortes fisicamente e disciplinados taticamente."
+        },
+        "engrenagem_tatica": {
+          "o_comandante": "José Mourinho",
+          "modelo_de_jogo": "Bloco defensivo baixo e compacto, esperando o erro do adversário para lançar transições rápidas e mortais.",
+          "destaque_equipe": "A organização defensiva como um todo."
+        },
+        "sintese_e_cenarios": {
+          "sintese": "A grande incógnita. Potencial de título se a filosofia de Mourinho for absorvida rapidamente. O início da temporada será crucial.",
+          "cenarios_detalhados": []
+        }
+      }
+    }
+  },
+  {
+    "pais": "Turquia",
+    "liga": "Super_Lig",
+    "clube": "Besiktas",
+    "temporada": "24_25",
+    "dossie_completo": {
+      "nome_completo": "Beşiktaş JK",
+      "url_escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Be%C5%9Fikta%C5%9F_JK_logo.svg/1200px-Be%C5%9Fikta%C5%9F_JK_logo.svg.png",
+      "sumario_estrategico": {
+        "identidade_principal": "O 'azarão' de alto potencial. Um gigante em reconstrução, apostando tudo no talento individual de um ataque estelar, mas de perfil de risco.",
+        "padrao_quantitativo_chave": "Temporada 24/25 de grande inconsistência, especialmente em casa (5 derrotas).",
+        "fator_tatico_principal": "Projeção de um sistema 4-2-3-1 de contra-ataques rápidos sob Ole Gunnar Solskjær, com alta dependência da inspiração de Rafa Silva e Martial.",
+        "fator_contextual_principal": "Projeto novo sob um técnico que busca se reafirmar, com contratações de nome, mas de perfil de risco (histórico de lesões, consistência).",
+        "cenarios_monitoramento_in_live": [
+          "Jogos com alto potencial para gols (Over), tanto a favor quanto contra.",
+          "Dependência de rasgos individuais para criar chances.",
+          "Vulnerabilidade defensiva em transições."
+        ]
+      },
+      "analise_profunda": {
+        "base_factual": {
+          "analise_quantitativa_geral": "Defesa muito vulnerável foi o principal problema da temporada passada, sofrendo gols em momentos inesperados.",
+          "raio_x_24_25": {},
+          "analise_comparativa_elenco": "Aposta de alto risco e alta recompensa. Se as estrelas contratadas (Rafa Silva, Martial) estiverem em forma, o ataque pode ser devastador."
+        },
+        "engrenagem_tatica": {
+          "o_comandante": "Ole Gunnar Solskjær",
+          "modelo_de_jogo": "Time que não foca em posse, mas em acelerar rapidamente para o ataque assim que recupera a bola, buscando explorar a velocidade de seus pontas.",
+          "destaque_equipe": "Rafa Silva"
+        },
+        "sintese_e_cenarios": {
+          "sintese": "Time de 'altos e baixos'. Capaz de vencer qualquer um em um dia inspirado, mas também de perder jogos fáceis por falhas de concentração.",
+          "cenarios_detalhados": []
+        }
+      }
+    }
+  },
+  {
+    "pais": "DINAMARCA",
+    "liga": "SUPERLIGA",
+    "clube": "FC_Copenhagen",
+    "temporada": "24_25",
+    "dossie_completo": {
+      "nome_completo": "DOSSIÊ ESTRATÉGICO COMPLETO: SUPERLIGA (DINAMARCA)",
+      "url_escudo": "",
+      "sumario_estrategico": {
+        "identidade_principal": "Campeão hegemônico e estável, com um sistema de jogo consolidado e um ataque agora reforçado por talento de elite.",
+        "padrao_quantitativo_chave": "Consistência de campeão, com forte desempenho tanto como mandante quanto visitante na fase decisiva da temporada anterior.",
+        "fator_tatico_principal": "Sistema 4-3-3 controlado e organizado do técnico Jacob Neestrup, focado na posse de bola como ferramenta de controle e defesa.",
+        "fator_contextual_principal": "A chegada do atacante de alto potencial Youssoufa Moukoko para um time que já era o campeão.",
+        "cenarios_monitoramento_in_live": [
+          "Gestão de vantagem com posse de bola",
+          "Impacto de Moukoko saindo do banco em jogos equilibrados",
+          "Confrontos diretos contra o Midtjylland tendem a ser \"jogos de xadrez\""
+        ]
+      },
+      "analise_profunda": {
+        "base_factual": {
+          "analise_quantitativa_geral": "Conquistou o título de 24/25 com uma performance espetacular na fase final (8 vitórias em 10 jogos), mostrando equilíbrio em casa e fora.",
+          "raio_x_24_25": {
+            "protagonistas": [
+              {
+                "titulo": "Mohamed Elyounoussi",
+                "descricao": "9 gols"
+              },
+              {
+                "titulo": "Viktor Claesson",
+                "descricao": "8 assistências"
+              }
+            ],
+            "padroes_estatisticos_equipe": "Liderou a liga em posse de bola (59%) e teve a melhor defesa (0.9 gols sofridos/jogo)."
+          },
+          "analise_comparativa_elenco": "A equipe manteve a estabilidade no comando (Jacob Neestrup) e a espinha dorsal experiente. A principal mudança foi um \"upgrade\" no ataque com a contratação de Youssoufa Moukoko (ex-Dortmund), tornando o elenco, no papel, ainda mais forte."
+        },
+        "engrenagem_tatica": {
+          "o_comandante": "Jacob Neestrup",
+          "modelo_de_jogo": "Construção paciente, controle do meio-campo e, com a chegada de Moukoko, uma nova capacidade de atacar a profundidade com velocidade.",
+          "destaque_equipe": "O capitão Viktor Claesson continua sendo o cérebro da equipe, responsável por ditar o ritmo e conectar o meio com o ataque."
+        },
+        "sintese_e_cenarios": {
+          "sintese": "Entra na temporada como favorito absoluto, combinando estabilidade, maturidade tática e um novo poder de fogo. O desafio será encontrar valor em odds que refletirão esse favoritismo.",
+          "cenarios_detalhados": [
+            "Ao fazer 1x0, a tendência é \"congelar\" o jogo com a posse",
+            "A entrada de Moukoko no ST é um gatilho para um gol tardio",
+            "Clássicos contra o Midtjylland tendem a ser jogos táticos com poucos gols"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "pais": "Turquia",
+    "liga": "SÜPER LIG",
+    "clube": "",
+    "temporada": "24_25",
+    "dossie_completo": {
+      "nome_completo": "DOSSIÊ ESTRATÉGICO COMPLETO: SÜPER LIG (TURQUIA)",
+      "url_escudo": "",
+      "sumario_estrategico": {
+        "identidade_principal": "",
+        "padrao_quantitativo_chave": "",
+        "fator_tatico_principal": "",
+        "fator_contextual_principal": "",
+        "cenarios_monitoramento_in_live": []
+      },
+      "analise_profunda": {
+        "base_factual": {
+          "analise_quantitativa_geral": "",
+          "raio_x_24_25": {
+            "protagonistas": [],
+            "padroes_estatisticos_equipe": ""
+          },
+          "analise_comparativa_elenco": ""
+        },
+        "engrenagem_tatica": {
+          "o_comandante": "",
+          "modelo_de_jogo": "",
+          "destaque_equipe": ""
+        },
+        "sintese_e_cenarios": {
+          "sintese": "",
+          "cenarios_detalhados": []
+        }
+      }
+    }
+  },
+  {
+    "pais": "BÉLGICA",
+    "liga": "JUPILER PRO LEAGUE",
+    "clube": "Club_Brugge",
+    "temporada": "24_25",
+    "dossie_completo": {
+      "nome_completo": "CLUB BRUGGE",
+      "url_escudo": "https://upload.wikimedia.org/wikipedia/pt/1/12/Club_Brugge_KV.png",
+      "sumario_estrategico": {
+        "identidade_principal": "Um hegemônico em reconstrução ofensiva, forçado a trocar o brilho individual pela solidez coletiva.",
+        "padrao_quantitativo_chave": "Fortaleza absoluta como mandante (invicto em casa na temporada 24/25), mas com notável vulnerabilidade como visitante.",
+        "fator_tatico_principal": "Pragmatismo do técnico Nicky Hayen, com um sistema 3-5-2 que se torna um 5-3-2 reativo e menos potente fora de casa.",
+        "fator_contextual_principal": "Perda drástica de poder de fogo com a venda de seus dois principais jogadores de ataque da temporada passada (Igor Thiago e Andreas Skov Olsen).",
+        "cenarios_monitoramento_in_live": [
+          "Reação forte em casa se estiver em desvantagem",
+          "Cautela e tendência a jogos com poucos gols no início da temporada (especialmente como visitante)",
+          "Dificuldade e padrão de ser dominado como visitante vs. G4"
+        ]
+      },
+      "analise_profunda": {
+        "base_factual": {
+          "analise_quantitativa_geral": "Desempenho em 24/25 mostrou uma fortaleza invicta como mandante, mas uma queda drástica como visitante, onde sofreu todas as suas derrotas na liga.",
+          "raio_x_24_25": {
+            "protagonistas": [
+              {
+                "titulo": "Hans Vanaken",
+                "descricao": "um dos líderes de assistências de toda a Jupiler Pro League (13), além de ter uma das maiores Médias Sofascore (7.65) entre os meio-campistas"
+              }
+            ],
+            "padroes_estatisticos_equipe": "A equipe liderou a liga em finalizações por jogo (17.8) e teve uma média de 58% de posse de bola."
+          },
+          "analise_comparativa_elenco": "A equipe foi reconstruída de trás para frente. A base defensiva e de meio-campo foi reforçada com as chegadas de Ardon Jashari e Zaid Romero. No entanto, o setor ofensivo foi enfraquecido com a perda de seus dois jogadores mais decisivos. A equipe entra na nova temporada mais sólida, porém com um poder de fogo significativamente reduzido."
+        },
+        "engrenagem_tatica": {
+          "o_comandante": "Nicky Hayen",
+          "modelo_de_jogo": "Defesa em bloco médio/baixo, com transições rápidas e verticais. Em casa, a postura é mais agressiva. Fora, a equipe torna-se reativa.",
+          "destaque_equipe": "Com as saídas no ataque, o capitão Hans Vanaken se torna a peça absolutamente central, responsável por toda a criação de jogadas."
+        },
+        "sintese_e_cenarios": {
+          "sintese": "O Club Brugge carrega a reputação de hegemônico, mas entra na temporada com uma grande interrogação sobre seu ataque. O mercado pode demorar a precificar essa nova realidade.",
+          "cenarios_detalhados": [
+            "Brugge em Desvantagem como MANDANTE: A tendência é de uma reação muito forte.",
+            "Jogo Equilibrado no Início da Temporada (Visitante): A tendência é de um jogo mais controlado e com poucas chances.",
+            "Brugge como VISITANTE vs. G4: A tendência é de ser dominado."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "pais": "DINAMARCA",
+    "liga": "SUPERLIGA",
+    "clube": "FC_Copenhagen",
+    "temporada": "24_25",
+    "dossie_completo": {
+      "nome_completo": "FC COPENHAGEN",
+      "url_escudo": "",
+      "sumario_estrategico": {
+        "identidade_principal": "Campeão hegemônico e estável, com um sistema de jogo consolidado e um ataque agora reforçado por talento de elite.",
+        "padrao_quantitativo_chave": "Consistência de campeão, com forte desempenho tanto como mandante quanto visitante na fase decisiva da temporada anterior.",
+        "fator_tatico_principal": "Sistema 4-3-3 controlado e organizado do técnico Jacob Neestrup, focado na posse de bola como ferramenta de controle e defesa.",
+        "fator_contextual_principal": "A chegada do atacante de alto potencial Youssoufa Moukoko para um time que já era o campeão.",
+        "cenarios_monitoramento_in_live": [
+          "Gestão de vantagem com posse de bola",
+          "Impacto de Moukoko saindo do banco em jogos equilibrados",
+          "Confrontos diretos contra o Midtjylland tendem a ser \"jogos de xadrez\""
+        ]
+      },
+      "analise_profunda": {
+        "base_factual": {
+          "analise_quantitativa_geral": "Conquistou o título de 24/25 com uma performance espetacular na fase final (8 vitórias em 10 jogos), mostrando equilíbrio em casa e fora.",
+          "raio_x_24_25": {
+            "protagonistas": [
+              {
+                "titulo": "Mohamed Elyounoussi",
+                "descricao": "9 gols"
+              },
+              {
+                "titulo": "Viktor Claesson",
+                "descricao": "8 assistências"
+              }
+            ],
+            "padroes_estatisticos_equipe": "Liderou a liga em posse de bola (59%) e teve a melhor defesa (0.9 gols sofridos/jogo)."
+          },
+          "analise_comparativa_elenco": "A equipe manteve a estabilidade no comando (Jacob Neestrup) e a espinha dorsal experiente. A principal mudança foi um \"upgrade\" no ataque com a contratação de Youssoufa Moukoko (ex-Dortmund), tornando o elenco, no papel, ainda mais forte. O \"Mini Dossiê\" de Moukoko confirmou seu alto potencial, apesar dos poucos minutos na temporada anterior."
+        },
+        "engrenagem_tatica": {
+          "o_comandante": "Jacob Neestrup",
+          "modelo_de_jogo": "Construção paciente, controle do meio-campo e, com a chegada de Moukoko, uma nova capacidade de atacar a profundidade com velocidade.",
+          "destaque_equipe": "O capitão Viktor Claesson continua sendo o cérebro da equipe, responsável por ditar o ritmo e conectar o meio com o ataque."
+        },
+        "sintese_e_cenarios": {
+          "sintese": "Entra na temporada como favorito absoluto, combinando estabilidade, maturidade tática e um novo poder de fogo. O desafio será encontrar valor em odds que refletirão esse favoritismo.",
+          "cenarios_detalhados": [
+            "Ao fazer 1x0, a tendência é \"congelar\" o jogo com a posse",
+            "A entrada de Moukoko no ST é um gatilho para um gol tardio",
+            "Clássicos contra o Midtjylland tendem a ser jogos táticos com poucos gols"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "pais": "TURQUIA",
+    "liga": "SÜPER LIG",
+    "clube": "Galatasaray",
+    "temporada": "24_25",
+    "dossie_completo": {
+      "nome_completo": "GALATASARAY",
+      "url_escudo": "",
+      "sumario_estrategico": {
+        "identidade_principal": "Uma dinastia hegemônica no auge de sua força, com um sistema consolidado e elenco ainda mais forte para a nova temporada.",
+        "padrao_quantitativo_chave": "Domínio absoluto na temporada 24/25, com uma campanha perfeita como mandante (18V-0E-0D) e o melhor desempenho da liga como visitante.",
+        "fator_tatico_principal": "Sistema 4-2-3-1 ofensivo e de pressão alta de Okan Buruk, projetado para sufocar os adversários e maximizar o talento do finalizador Mauro Icardi.",
+        "fator_contextual_principal": "Continuidade total. Manutenção da base tricampeã e do comando técnico, além do reforço estratégico com um dos melhores jogadores de um rival direto (İsmail Yüksek).",
+        "cenarios_monitoramento_in_live": [
+          "A Fortaleza Inexpugnável: Em jogos em casa, a expectativa é de domínio total",
+          "O Fator Icardi: A performance ofensiva está diretamente ligada à capacidade de fazer a bola chegar a Mauro Icardi",
+          "Gestão Ofensiva da Vantagem: Ao marcar primeiro, o padrão é manter a pressão para buscar o segundo gol."
+        ]
+      },
+      "analise_profunda": {
+        "base_factual": {
+          "analise_quantitativa_geral": "Conquistou o título de 24/25 com 95 pontos, destacando-se uma campanha 100% vitoriosa como mandante e a melhor campanha como visitante.",
+          "raio_x_24_25": {
+            "protagonistas": [
+              {
+                "titulo": "Mauro Icardi",
+                "descricao": "um dos artilheiros da liga"
+              },
+              {
+                "titulo": "Dries Mertens",
+                "descricao": "esteve no Top 20 de assistências"
+              }
+            ],
+            "padroes_estatisticos_equipe": "Liderou a liga em posse de bola (57.4%), finalizações por jogo (17.8) e teve a melhor defesa (0.6 gols sofridos/jogo)."
+          },
+          "analise_comparativa_elenco": "A equipe manteve todos os seus pilares da temporada anterior. A chegada de İsmail Yüksek, um dos melhores volantes do rival Fenerbahçe, qualifica ainda mais o elenco. O time entra na nova temporada mais forte do que terminou a anterior."
+        },
+        "engrenagem_tatica": {
+          "o_comandante": "Okan Buruk",
+          "modelo_de_jogo": "Pressão alta para sufocar os adversários e um ataque construído para servir o finalizador de elite Mauro Icardi.",
+          "destaque_equipe": "Mauro Icardi"
+        },
+        "sintese_e_cenarios": {
+          "sintese": "O \"super favorito\" da liga. A combinação de estabilidade, qualidade e reforços estratégicos o coloca em um patamar acima dos rivais. O desafio será encontrar valor em odds baixas.",
+          "cenarios_detalhados": [
+            "Em casa, qualquer adversidade (sofrer um gol) tende a gerar uma reação avassaladora.",
+            "A eficácia do time pode ser medida pela quantidade de bolas que chegam a Icardi na área.",
+            "Com 1x0 no placar, a tendência é buscar o segundo gol, mantendo o jogo aberto."
+          ]
+        }
+      }
+    }
+  }
+]
