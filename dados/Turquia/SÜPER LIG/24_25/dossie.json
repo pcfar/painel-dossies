@@ -1,0 +1,30 @@
+{
+  "nome_completo": "DOSSIÊ ESTRATÉGICO COMPLETO: SÜPER LIG (TURQUIA)",
+  "url_escudo": "",
+  "sumario_estrategico": {
+    "identidade_principal": "",
+    "padrao_quantitativo_chave": "",
+    "fator_tatico_principal": "",
+    "fator_contextual_principal": "",
+    "cenarios_monitoramento_in_live": []
+  },
+  "analise_profunda": {
+    "base_factual": {
+      "analise_quantitativa_geral": "",
+      "raio_x_24_25": {
+        "protagonistas": [],
+        "padroes_estatisticos_equipe": ""
+      },
+      "analise_comparativa_elenco": ""
+    },
+    "engrenagem_tatica": {
+      "o_comandante": "",
+      "modelo_de_jogo": "",
+      "destaque_equipe": ""
+    },
+    "sintese_e_cenarios": {
+      "sintese": "",
+      "cenarios_detalhados": []
+    }
+  }
+}

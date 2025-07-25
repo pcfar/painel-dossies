@@ -1,0 +1,37 @@
+{
+  "nome_completo": "Union Saint-Gilloise",
+  "url_escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Royale_Union_Saint-Gilloise_logo.svg/1200px-Royale_Union_Saint-Gilloise_logo.svg.png",
+  "perfil_radar": {
+    "Forca Ofensiva": 7,
+    "Solidez Defensiva": 9,
+    "Qualidade na Transicao": 7,
+    "Organizacao Tatica": 10,
+    "Forca Mental": 8
+  },
+  "elenco_detalhado": [
+    { "jogador": "Cameron Puertas", "posicao": "Meia Central", "status": "Maestro 🧠" },
+    { "jogador": "Kevin Mac Allister", "posicao": "Zagueiro", "status": "Titular" },
+    { "jogador": "Anthony Moris", "posicao": "Goleiro", "status": "Saiu ⬅️" },
+    { "jogador": "Koki Machida", "posicao": "Zagueiro", "status": "Saiu ⬅️" },
+    { "jogador": "Mohamed Amoura", "posicao": "Atacante", "status": "Saiu ⬅️" }
+  ],
+  "engrenagem_tatica": {
+    "comandante": "Sébastien Pocognoli",
+    "filosofia_tecnico": "Focado no controle, posse de bola e organização tática do 'sistema'.",
+    "esquema_base": "3-4-3",
+    "dna_tatico": ["Construção Paciente", "Controle pelo Meio-Campo", "Ataque Cirúrgico", "Defesa Sólida"]
+  },
+  "analise_comportamental": {
+    "temporada_24_25": {
+      "metricas_chave": {
+        "Gols Sofridos p/ Jogo": "0.8",
+        "Interceptações p/ Jogo": "10.1",
+        "Assistências do Craque": "18"
+      },
+      "desempenho_mandante": "Performance forte e equilibrada, com grande consistência defensiva.",
+      "desempenho_visitante": "Manteve a consistência fora de casa, provando que o sistema funciona em qualquer cenário.",
+      "ao_marcar_primeiro": "Tende a controlar o jogo com a posse para administrar o placar, em vez de buscar o segundo gol agressivamente.",
+      "ao_sofrer_primeiro": "A maior incógnita, pois raramente esteve em desvantagem. Depende do entrosamento das novas peças."
+    }
+  }
+}

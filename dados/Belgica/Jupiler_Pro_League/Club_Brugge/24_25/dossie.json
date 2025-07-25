@@ -1,0 +1,47 @@
+{
+  "nome_completo": "Club Brugge",
+  "url_escudo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
+  "sumario_estrategico": {
+    "identidade_principal": "Um hegemônico em reconstrução ofensiva, forçado a trocar o brilho individual pela solidez coletiva.",
+    "padrao_quantitativo_chave": "Fortaleza absoluta como mandante (invicto em casa na temporada 24/25), mas com notável vulnerabilidade como visitante.",
+    "fator_tatico_principal": "Pragmatismo do técnico Nicky Hayen, com um sistema 3-5-2 que se torna um 5-3-2 reativo e menos potente fora de casa.",
+    "fator_contextual_principal": "Perda drástica de poder de fogo com a venda de seus dois principais jogadores de ataque da temporada passada (Igor Thiago e Andreas Skov Olsen).",
+    "cenarios_monitoramento_in_live": [
+      "Reação forte em casa se estiver em desvantagem.",
+      "Cautela e tendência a jogos com poucos gols no início da temporada (especialmente como visitante).",
+      "Dificuldade e padrão de ser dominado como visitante vs. G4."
+    ]
+  },
+  "analise_profunda": {
+    "base_factual": {
+      "analise_quantitativa_geral": "Desempenho em 24/25 mostrou uma fortaleza invicta como mandante, mas uma queda drástica como visitante, onde sofreu todas as suas derrotas na liga.",
+      "raio_x_24_25": {
+        "protagonistas": [
+          {
+            "titulo": "Líder de Assistências & Destaque da Liga: Hans Vanaken",
+            "descricao": "Com 13 assistências, ele se consagrou como o líder de assistências de toda a Jupiler Pro League. Além disso, obteve a maior Média Sofascore (7.65) entre os meio-campistas do campeonato."
+          },
+          {
+            "titulo": "Artilheiro da Equipe: Ferran Jutglà",
+            "descricao": "Marcou 10 gols na temporada."
+          }
+        ],
+        "padroes_estatisticos_equipe": "A equipe liderou a liga em finalizações por jogo (17.8) e teve uma média de 58% de posse de bola, indicando um time que controla o jogo e busca o gol incessantemente."
+      },
+      "analise_comparativa_elenco": "A equipe foi reconstruída de trás para frente. A base defensiva e de meio-campo foi reforçada. No entanto, o setor ofensivo foi enfraquecido com a perda de seus dois jogadores mais decisivos."
+    },
+    "engrenagem_tatica": {
+      "o_comandante": "Nicky Hayen: Técnico pragmático que prioriza a organização e a solidez defensiva, utilizando um esquema 3-5-2 (que vira 5-3-2).",
+      "modelo_de_jogo": "Defesa em bloco médio/baixo, com transições rápidas e verticais. Em casa, a postura é mais agressiva. Fora, a equipe torna-se reativa.",
+      "destaque_equipe": "Com as saídas no ataque, o capitão Hans Vanaken se torna a peça absolutamente central, responsável por toda a criação de jogadas."
+    },
+    "sintese_e_cenarios": {
+      "sintese": "O Club Brugge carrega a reputação de hegemônico, mas entra na temporada com uma grande interrogação sobre seu ataque. O mercado pode demorar a precificar essa nova realidade.",
+      "cenarios_detalhados": [
+        "Brugge em Desvantagem como MANDANTE: A tendência é de uma reação muito forte.",
+        "Jogo Equilibrado no Início da Temporada (Visitante): A tendência é de um jogo mais controlado e com poucas chances.",
+        "Brugge como VISITANTE vs. G4: A tendência é de ser dominado."
+      ]
+    }
+  }
+}
