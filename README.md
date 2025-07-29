@@ -8,20 +8,6 @@
 Desenvolver um modelo-padrão de dossiê técnico aplicável a qualquer competição esportiva nacional ou internacional, com foco em dados estatísticos, padrões táticos e histórico competitivo. O modelo serve como base para análises estratégicas, painéis interativos e tomadas de decisão por parte do usuário.
 
 ---
-
-## 📅 Histórico Cronológico do Projeto
-
-| Data        | Ação                                                                 |
-|-------------|----------------------------------------------------------------------|
-| 2025-07-25  | Início do projeto e definição do escopo dos dossiês                  |
-| 2025-07-26  | Recebimento e análise dos prints da Série A Italiana (temporada 2024–25) |
-| 2025-07-26  | Discussão sobre estrutura ideal; decisão de dividir o Dossiê 1 em 2 partes |
-| 2025-07-27  | Refinamento da estrutura, definição final do modelo aprovado         |
-| 2025-07-28  | Registro da versão final do exemplo aplicado à Série A               |
-| 2025-07-29  | Padronização da estrutura textual para o `README.md`                 |
-
----
-
 ## 🧩 Estrutura Oficial — Dossiê Técnico (Dossiê 1)
 
 🔷 **PARTE 1 — Desempenho Competitivo e Métricas Técnicas**
