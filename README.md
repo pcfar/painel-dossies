@@ -173,7 +173,10 @@ Desenvolver um modelo-padrão de dossiê técnico aplicável a qualquer competi�
   [Resumo que conecta dados quantitativos, táticos e contextuais]  
 
 - **Detalhamento dos Cenários de Monitoramento In-Live:**  
-  [Explicação de cada cenário, métricas a observar e gatilhos de alerta]  
+  [Explicação de cada cenário, métricas a observar e gatilhos de alerta]
+
+
+  
 
 ---  
 
