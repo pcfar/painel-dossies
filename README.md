@@ -187,5 +187,81 @@ Desenvolver um modelo-padrão de dossiê técnico aplicável a qualquer competi�
 - A estrutura foi definida após testes e aprovada como modelo oficial.  
 - O exemplo da Série A Italiana serve como guia replicável para qualquer outra liga.
 
+---
+
+# Dossiê 2: Dossiês Estratégicos das Equipes-Alvo
+
+> Este documento reúne o template-base para estruturar cada “Alvo” no seu README.  
+> Copie e cole a seção desejada, preencha com dados reais e mantenha o fluxo de aprovação parte a parte.
+
+---
+
+## ALVO 1: [NOME DA EQUIPE]
+
+---
+
+### CAMADA 1: SUMÁRIO ESTRATÉGICO
+
+> **Identidade Principal:**  
+> [Frase curta que define a narrativa principal da equipe para a temporada.]
+
+> **Padrão Quantitativo Chave:**  
+> [O dado estatístico mais forte e recorrente da temporada anterior.]
+
+> **Principal Fator Tático:**  
+> [A característica mais marcante do modelo de jogo do treinador.]
+
+> **Principal Fator Contextual:**  
+> [A notícia, mudança de elenco ou comando mais impactante.]
+
+> **Top 3 Cenários de Monitoramento In-Live:**  
+> 1. [Descrição concisa do primeiro cenário.]  
+> 2. [Descrição concisa do segundo cenário.]  
+> 3. [Descrição concisa do terceiro cenário.]  
+
+---
+
+### CAMADA 2: ANÁLISE PROFUNDA
+
+#### Parte 1: A Base Factual
+
+- **Análise Quantitativa (Temporada Anterior):**  
+  - Desempenho geral (pontos, vitórias, empates, derrotas)  
+  - Rendimento em casa vs. fora  
+
+- **Raio-X de Destaques e Padrões:**  
+  - Principais goleadores e assistentes  
+  - Padrões marcantes (posse, transições, pressão)  
+
+- **Fotografia do Elenco:**  
+  - Base titular provável (formação e jogadores-chave)  
+  - Reforços entregues e saídas sensíveis  
+
+- **Mini Dossiês de Contratação:**  
+  - Nome | Idade | Origem | Ponto Forte | Ponto de Atenção | Impacto Esperado  
+
+#### Parte 2: A Engrenagem Tática
+
+- **O Comandante:**  
+  [Nome do treinador, tempo no cargo e filosofia de jogo]  
+
+- **O Jogador-Sistema:**  
+  [Atleta cuja função tática sustenta o modelo de jogo]  
+
+- **Flexibilidade Tática e Gestão de Jogo:**  
+  - Formação base e principais variações  
+  - Ajustes de leitura de jogo e gatilhos de pressão  
+
+#### Parte 3: A Síntese Acionável
+
+- **Síntese Analítica:**  
+  [Resumo que conecta dados quantitativos, táticos e contextuais]  
+
+- **Detalhamento dos Cenários de Monitoramento In-Live:**  
+  [Explicação de cada cenário, métricas a observar e gatilhos de alerta]  
+
+---  
+
+
 
 
